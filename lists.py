@@ -1,6 +1,6 @@
-city=["Mumbai","Delhi","Jalandhar","Kolkata"]
+city=["kolkata","allahabad","lucknow","delhi"]
 print(city)
-print(city+["Bhopal"])
+print(city+["ludhiana"])
 for i in reversed(city):
     print(i)
 empty=[]
